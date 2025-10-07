@@ -1,2 +1,2 @@
 # helloworldcobol
-Testing cobol
+Testing cobol compilers
